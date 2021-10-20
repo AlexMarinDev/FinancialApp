@@ -1,0 +1,27 @@
+
+.invoice-icon-wrapper {
+    cursor: pointer;
+    color: rgb(226, 105, 105);
+    font-size: 40px;
+}
+
+.invoice-button-label {
+    font-family: Oxigen;
+    font-size: 12px;
+    color: #3a3a3a;
+}
+.invoices-due {
+    color: rgb(224, 109, 63);
+}
+.invoices-paid {
+    color: rgb(201, 209, 82);
+}
+.invoices-exceeded {
+    color: rgb(226, 105, 105);
+}
+.invoices-closed {
+    color: rgb(36, 36, 36);
+}
+.invoices-upload {
+    color: rgb(134, 83, 228);
+}

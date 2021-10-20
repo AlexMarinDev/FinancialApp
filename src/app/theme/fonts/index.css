@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "Droid-Sans-Bold";
+    src: local("Droid-Sans-Bold"), url("./Droid-Sans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Droid-Sans";
+    src: local("Droid-Sans"), url("./Droid-Sans.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Black";
+    src: local("Fira-Sans-Black"), url("./Fira-Sans-Black.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Bold-Italic";
+    src: local("Fira-Sans-Bold-Italic"), url("./Fira-Sans-Bold-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Bold";
+    src: local("Fira-Sans-Bold"), url("./Fira-Sans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Extra-Bold";
+    src: local("Fira-Sans-Extra-Bold"), url("./Fira-Sans-Extra-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Extra-Bold-Italic";
+    src: local("Fira-Sans-Extra-Bold-Italic"), url("./Fira-Sans-Extra-Bold-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Extra-Light";
+    src: local("Fira-Sans-Extra-Light"), url("./Fira-Sans-Extra-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Extra-Light-Italic";
+    src: local("Fira-Sans-Extra-Light-Italic"), url("./Fira-Sans-Extra-Light-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Italic";
+    src: local("Fira-Sans-Italic"), url("./Fira-Sans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Light";
+    src: local("Fira-Sans-Light"), url("./Fira-Sans-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Light-Italic";
+    src: local("Fira-Sans-Light-Italic"), url("./Fira-Sans-Light-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Medium";
+    src: local("Fira-Sans-Medium"), url("./Fira-Sans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Medium-Italic";
+    src: local("Fira-Sans-Medium-Italic"), url("./Fira-Sans-Medium-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Regular";
+    src: local("Fira-Sans-Regular"), url("./Fira-Sans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-SemiBold";
+    src: local("Fira-Sans-SemiBold"), url("./Fira-Sans-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-SemiBold-Italic";
+    src: local("Fira-Sans-SemiBold-Italic"), url("./Fira-Sans-SemiBold-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Thin";
+    src: local("Fira-Sans-Thin"), url("./Fira-Sans-Thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fira-Sans-Thin-Italic";
+    src: local("Fira-Sans-Thin-Italic"), url("./Fira-Sans-Thin-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oxygen-Bold";
+    src: local("Oxygen-Bold"), url("./Oxygen-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oxygen-Light";
+    src: local("Oxygen-Light"), url("./Oxygen-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oxygen-Regular";
+    src: local("Oxygen-Regular"), url("./Oxygen-Regular.ttf") format("truetype");
+}

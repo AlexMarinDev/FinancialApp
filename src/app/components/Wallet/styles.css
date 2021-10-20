@@ -1,0 +1,33 @@
+
+.credit-card {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+    max-width: 300px;
+    border: 1px dashed grey;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.card-list {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.card-number, .card-holder {
+    width: 200px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: left;
+    white-space: nowrap;
+    max-width: 120px;
+}
