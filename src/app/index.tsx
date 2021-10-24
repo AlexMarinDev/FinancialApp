@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import "./theme/fonts/index.css"
+import "./theme/fonts/index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { ApiProvider } from "../api";
-import 'bootstrap/dist/css/bootstrap.css';
+import "bootstrap/dist/css/bootstrap.css";
 
 ReactDOM.render(
   <React.StrictMode>
